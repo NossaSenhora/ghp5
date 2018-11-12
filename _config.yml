@@ -1,0 +1,24 @@
+title:
+  "Nossa Senhora do Perpétuo Socorro"
+  
+description:
+  "Sed tincidunt est a magna rutrum, eget rhoncus tortor maximus. Aenean a nunc a arcu luctus bibendum. Cras a mauris rhoncus dolor luctus lacinia nec eu tell."
+
+lang:
+  "pt-BR"
+
+remote_theme:
+  quatrini/minima
+
+header_pages:
+  - content/inicio.md
+  - content/oracao.md
+  - content/novena.md
+
+permalink:
+  pretty
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
